@@ -13,3 +13,5 @@ da requisição para que seja usado na função de acesso à API do github.
 Dos repositórios são retornados pela API somente os campos pertinentes à utilização do chatbot, conforme ilustrado abaixo:
 
 ![image](https://user-images.githubusercontent.com/33614882/156867450-8214e3fb-1267-423a-8e8b-bb0cba2c500d.png)
+
+A API foi hospedada na AWS.
