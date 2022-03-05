@@ -32,7 +32,7 @@ routes.get('/api/get', async (req, res) => {
 
     reposCSharp[index] = {
         "id": item.id,
-        "name": item.name,
+        "full_name": item.full_name,
         "avatar_url": item.owner.avatar_url,
         "html_url": item.html_url,
         "description": item.description,
